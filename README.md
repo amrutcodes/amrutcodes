@@ -9,8 +9,9 @@
 - Exploring backend development and creating APIs.  
 - Contributing to open-source projects.  
 
-## 🌐 Connect With Me  
+## 🌐 Connect 
 Let’s collaborate and build something amazing!  
+Feel free to explore my repositories and connect!
 
 
 ### 🛠️ Tech Stack  
