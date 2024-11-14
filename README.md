@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Amrut!  
 
-<!--
-**amrutcodes/amrutcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 💻 Passionate about backend development and problem-solving.  
+-  loves chess ♟️  
+- 🌱 Currently learning **Node.js** and building full-stack apps with MongoDB.  
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On  
+- Exploring backend development and creating APIs.  
+- Contributing to open-source projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me  
+Let’s collaborate and build something amazing!  
