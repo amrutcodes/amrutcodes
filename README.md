@@ -2,9 +2,7 @@
 
 ## 👨‍💻 About Me  
 - 💻 Passionate about backend development and problem-solving.  
-- ♟️ loves chess
-- 🌱 Currently learning **Node.js** and building full-stack apps with MongoDB.
-- 🌱 Constantly learning new tech and looking for exciting challenges to tackle
+- 🌱 Currently learning **Node.js** and building full-stack apps with MongoDB. I’m passionate about solving real-world problems with code and continuously honing my skills in new tech. Whether it’s through innovative data handling or crafting APIs that make data accessible and actionable,
 
 ## 🚀 What I’m Working On  
 - Exploring backend development and creating APIs.  
