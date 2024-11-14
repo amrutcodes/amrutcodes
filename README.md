@@ -3,13 +3,13 @@
 ## 👨‍💻 About Me  
 - 💻 Passionate about backend development and problem-solving.  
 - ♟️ loves chess
-- 🛠️ Building projects with MongoDB, Git, Postman, and Express.js
 - 🌱 Currently learning **Node.js** and building full-stack apps with MongoDB.
 - 🌱 Constantly learning new tech and looking for exciting challenges to tackle
 
 ## 🚀 What I’m Working On  
 - Exploring backend development and creating APIs.  
-- Contributing to open-source projects.  
+- Contributing to open-source projects.
+- 🛠️ Building projects with MongoDB, Git, Postman, and Express.js
 
 ## 🌐 Connect 
 Let’s collaborate and build something amazing!  
