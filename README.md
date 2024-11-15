@@ -36,5 +36,6 @@ Feel free to explore my repositories and connect!
   <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoCompass"/>
   <br>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
 
