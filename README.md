@@ -1,15 +1,17 @@
-Hi there 👋, I'm Amrut!
-👨‍💻 About Me
-💻 Backend enthusiast driven by a love for solving problems with clean, efficient code.
-🌱 Currently mastering Node.js and diving deep into full-stack app development with MongoDB and Express.js. I thrive on creating APIs that power impactful applications and enjoy tackling real-world challenges through technology.
+  # Hi there 👋, I'm Amrut!  
 
-🚀 What I’m Working On
-Crafting robust APIs and scalable backend solutions.
-Contributing to open-source projects to give back to the dev community.
-Building projects with cutting-edge tools: MongoDB, Git, Postman, and Express.js.
-🌐 Let's Connect
-🤝 Collaboration excites me! Explore my repositories, drop by with suggestions, or reach out to work on something awesome together.
+## 👨‍💻 About Me  
+- 💻 Passionate about backend development and problem-solving.  
+- 🌱 Currently learning **Node.js** and building full-stack apps with MongoDB. I’m passionate about solving real-world problems with code and continuously honing my skills in new tech. Whether it’s through innovative data handling or crafting APIs that make data accessible and actionable.
 
+## 🚀 What I’m Working On  
+- Exploring backend development and creating APIs.  
+- Contributing to open-source projects.
+- 🛠️ Building projects with MongoDB, Git, Postman, and Express.js
+
+## 🌐 Social
+Let’s collaborate and build something amazing!  
+Feel free to explore my repositories and connect!
 ### 🛠️ Tech Stack  
 
 <p align="left">  
