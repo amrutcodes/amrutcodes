@@ -9,7 +9,7 @@
 - Contributing to open-source projects.
 - 🛠️ Building projects with MongoDB, Git, Postman, and Express.js
 
-## 🌐 Connect 
+## 🌐 Social
 Let’s collaborate and build something amazing!  
 Feel free to explore my repositories and connect!
 
