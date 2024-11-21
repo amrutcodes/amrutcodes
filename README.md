@@ -6,7 +6,6 @@
 
 ## 🚀 What I’m Working On  
 - Exploring backend development and creating APIs.  
-- Contributing to open-source projects.
 - 🛠️ Building projects with MongoDB, Git, Postman, and Express.js
 
 ## 🌐 Social
